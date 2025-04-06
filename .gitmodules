@@ -1,0 +1,3 @@
+[submodule "3rd-party/TileFusion"]
+	path = 3rd-party/TileFusion
+	url = https://github.com/microsoft/TileFusion
